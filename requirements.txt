@@ -1,0 +1,6 @@
+selenium
+pytest
+webdriver-manager
+screenpy
+screenpy-selenium
+pytest-html
